@@ -17,10 +17,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp
 </div>
 <!--
 **Argayash1/Argayash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

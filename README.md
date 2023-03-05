@@ -1,10 +1,10 @@
 ## Hi there 👋
 ## Мои контакты:
 <div>
-  <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF">
-  <img src="https://img.shields.io/badge/Mail-0000FF?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF">
-  <img src="https://img.shields.io/badge/instagram-DA70D6?style=for-the-badge&logo=Instagram&logoColor=FFFFFF">
+  <a href="https://t.me/Yakoffz"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
+  <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
+  <a><img src="https://img.shields.io/badge/Mail-0000FF?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF"></a>
+  <a href="https://www.instagram.com/iakovzilberman"><img src="https://img.shields.io/badge/instagram-DA70D6?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"></a>
 </div>
 
 ## Мой стэк:

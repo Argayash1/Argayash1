@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, меня зовут Яков Зильберман 👋
 ## Мои контакты:
 <div>
   <a href="https://t.me/Yakoffz"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>

@@ -1,4 +1,12 @@
 ## Hi there 👋
+## Мои контакты:
+<div>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram">
+  <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=Telegram">
+  <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=Telegram">
+  <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=Telegram">
+</div>
+
 ## Мой стэк:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp

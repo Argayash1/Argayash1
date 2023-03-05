@@ -4,7 +4,7 @@
 * Набираться опыта у коллег и, возможно, наставника
 * Научиться писать чистый, красивый и читаемый код
 
-## Мои контакты:
+## 💌Мои контакты:
 <div>
   <a href="https://t.me/Yakoffz"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
   <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>

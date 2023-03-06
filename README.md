@@ -50,8 +50,8 @@
   <a href="https://github.com/Argayash1/mesto">
     <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Argayash1/mesto">
-    <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">
+  <a href="https://github.com/Argayash1/russian-travel">
+    <img src="https://user-images.githubusercontent.com/113699485/222904196-a8bef537-407f-404b-880a-400121bbe52c.jpg" width="180" height="150">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Argayash1/mesto">
     <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">

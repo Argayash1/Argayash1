@@ -10,7 +10,7 @@
 * 📝 Научиться писать чистый, красивый и читаемый код
 
 
-## 💌 Мои контакты:
+## 📧 Мои контакты:
 <div>
   <a href="https://t.me/Yakoffz"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
   <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="40" height="40"/>&nbsp;
 </div>
 
-## Мои проекты:
+## 🎨 Мои проекты:
 <div>
   <div>
     <a href="https://github.com/Argayash1/mesto-react">

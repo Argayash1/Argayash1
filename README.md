@@ -3,7 +3,7 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400">
 </h2>
 
-## 👨О себе/About me
+## 👨О себе/About me:
 * 🔭Хочу развиваться, изучать новые технологии, библиотеки, фреймворки
 * 👪Работать в дружной команде увлечённых профессионалов
 * ⭐Набираться опыта у коллег и, возможно, наставника
@@ -40,4 +40,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="40" height="40"/>&nbsp;
+</div>
+
+## Мои проекты:
+<div>
+  <a href="https://github.com/Argayash1/mesto-react">
+    <button>
+  <img src="https://user-images.githubusercontent.com/113699485/222625978-8c89e6fa-e058-4f61-9aa1-32b9e46047b4.jpg" width="150" height="150">
+      <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="150" height="150">
+    <p>Mesto-react</p>
+      </button>
+  </a>
+  <a href="https://github.com/Argayash1/mesto">
+    <button>
+  
+    <p>Mesto</p>
+      </button>
+    </a>
 </div>

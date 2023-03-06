@@ -46,7 +46,16 @@
 <div>
   <a href="https://github.com/Argayash1/mesto-react">
     <img src="https://user-images.githubusercontent.com/113699485/222625978-8c89e6fa-e058-4f61-9aa1-32b9e46047b4.jpg" width="180" height="150"> 
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Argayash1/mesto">
+    <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Argayash1/mesto">
+    <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Argayash1/mesto">
+    <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/Argayash1/mesto">
     <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="180" height="150">
   </a>

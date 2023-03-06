@@ -1,10 +1,10 @@
-<h1 align="center">
+<h2 align="center">
   <abc>
     <br>Привет, мир!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /><br>
-    <font align="center" size="400">Меня зовут Яков, я начинающий Frontend-разработчик:computer:</font>
+    <p align="center" style="font-size:50px">Меня зовут Яков, я начинающий Frontend-разработчик:computer:</p>
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400">
    </abc> 
-</h1>
+</h2>
 <ul>
 <li>🔭Хочу развиваться, изучать новые технологии, библиотеки, фреймворки</li>
 <li>👪Работать в дружной команде увлечённых профессионалов</li>
@@ -43,17 +43,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="40" height="40"/>&nbsp;
 </div>
-<!--
-**Argayash1/Argayash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

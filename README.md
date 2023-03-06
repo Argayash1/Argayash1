@@ -6,7 +6,7 @@
 * ⭐Набираться опыта у коллег и, возможно, наставника
 * 📝Научиться писать чистый, красивый и читаемый код
 
-## 💌Мои контакты:
+## 💌Мои контакты/My contacts:
 <div>
   <a href="https://t.me/Yakoffz"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
   <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/iakovzilberman"><img src="https://img.shields.io/badge/instagram-DA70D6?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"></a>
 </div>
 
-## 💻Мой стэк:
+## 💻Мой стэк/My stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
-## 🛠Мои инструменты:
+## 🛠Мои инструменты/My tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp

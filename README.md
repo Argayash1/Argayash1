@@ -3,14 +3,14 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400">
 </h2>
 
-## 👨О себе/About me:
+## 👨 О себе:
 * 🔭 Хочу развиваться, изучать новые технологии, библиотеки, фреймворки
 * 👪 Работать в дружной команде увлечённых профессионалов
 * ⭐ Набираться опыта у коллег и, возможно, наставника
 * 📝 Научиться писать чистый, красивый и читаемый код
 
 
-## 💌Мои контакты/My contacts:
+## 💌 Мои контакты:
 <div>
   <a href="https://t.me/Yakoffz"><img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"></a>
   <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/iakovzilberman"><img src="https://img.shields.io/badge/instagram-DA70D6?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"></a>
 </div>
 
-## 💻Мой стэк/My stack:
+## 💻 Мой стэк:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
-## 🛠Мои инструменты/My tools:
+## 🛠 Мои инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs-code" alt="vs-code" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp

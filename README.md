@@ -47,18 +47,18 @@
   <div>
     <a href="https://github.com/Argayash1/mesto-react">
       <img src="https://user-images.githubusercontent.com/113699485/222625978-8c89e6fa-e058-4f61-9aa1-32b9e46047b4.jpg" width="230" height="170"> 
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://github.com/Argayash1/mesto">
       <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" width="230" height="170">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://github.com/Argayash1/russian-travel">
       <img src="https://user-images.githubusercontent.com/113699485/222904196-a8bef537-407f-404b-880a-400121bbe52c.jpg" width="230" height="170">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
   </div>
   <div>
     <a href="https://github.com/Argayash1/how-to-learn">
       <img src="https://user-images.githubusercontent.com/113699485/222951217-a5465cb1-7ffc-4201-b262-ec0b99b11e49.jpg" width="230" height="170">
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;
     <a href="https://github.com/Argayash1/post">
       <img src="https://user-images.githubusercontent.com/113699485/223101114-0e9a881d-0977-4185-8ad5-71c0186c3a09.jpg" width="230" height="170">
     </a>

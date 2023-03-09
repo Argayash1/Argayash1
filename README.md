@@ -66,4 +66,5 @@
 </div>
 
 ## 🔥 Статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argayash1&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)

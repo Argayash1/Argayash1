@@ -64,3 +64,6 @@
     </a>
   </div>
 </div>
+
+## 🔥 Статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF)](https://git.io/streak-stats)

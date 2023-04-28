@@ -36,6 +36,7 @@
 ## 🛠 Мои инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs-code" alt="vs-code" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="git bash" alt="git bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp

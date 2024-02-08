@@ -57,11 +57,11 @@
 <div>
   <div>
     <a href="https://github.com/Argayash1/movies-explorer-frontend">
-      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f" width="230" height="170"> 
-    </a>&nbsp;
-    <a href="https://github.com/Argayash1/movies-explorer-frontend">
       <img src="https://github.com/Argayash1/Argayash1/assets/113699485/dea8ddd9-89dc-498c-9778-a7484fb2e5c5" width="230" height="170"> 
     </a>&nbsp;
+    <a href="https://github.com/Argayash1/movies-explorer-frontend">
+      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f" width="230" height="170"> 
+    </a>&nbsp; 
   </div>
   <div>
     <a href="https://github.com/Argayash1/mesto-react">

@@ -75,6 +75,7 @@
     </a>
   </div>
 </div>
+![movies-explorer](https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f)
 
 ## 🔎 Статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF&locale=ru)](https://git.io/streak-stats)<br>

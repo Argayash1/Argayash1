@@ -56,6 +56,9 @@
 ## 🎨 Мои проекты:
 <div>
   <div>
+    <a href="https://github.com/Argayash1/movies-explorer-frontend">
+      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f" width="230" height="170"> 
+    </a>&nbsp;
     <a href="https://github.com/Argayash1/mesto-react">
       <img src="https://user-images.githubusercontent.com/113699485/222625978-8c89e6fa-e058-4f61-9aa1-32b9e46047b4.jpg" width="230" height="170"> 
     </a>&nbsp;
@@ -75,7 +78,6 @@
     </a>
   </div>
 </div>
-![movies-explorer](https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f)
 
 ## 🔎 Статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF&locale=ru)](https://git.io/streak-stats)<br>

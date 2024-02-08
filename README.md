@@ -67,7 +67,7 @@
     </a>&nbsp; 
   </div>
   <div>
-    <a href="https://github.com/Argayash1/mesto-react">
+    <a href="https://github.com/Argayash1/react-mesto-api-full-gha">
       <img src="https://user-images.githubusercontent.com/113699485/222625978-8c89e6fa-e058-4f61-9aa1-32b9e46047b4.jpg" width="230" height="170"> 
     </a>&nbsp;
     <a href="https://github.com/Argayash1/mesto">

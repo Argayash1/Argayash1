@@ -16,7 +16,8 @@
   <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
   <a href="mailto:zilberman-82@mail.ru"><img src="https://img.shields.io/badge/Mail-0000FF?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF"></a>
   <a href="https://www.instagram.com/iakovzilberman"><img src="https://img.shields.io/badge/instagram-DA70D6?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"></a>
-</div>
+</div>![prettier-logo](https://github.com/Argayash1/Argayash1/assets/113699485/35821034-1e18-4235-95ae-948ce0bd615f)
+
 
 ## 💻 Мой стэк:
 <div>
@@ -37,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="jest.js" width="40" height="40"/>&nbsp
 </div>
 
+
 ## 🛠 Мои инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs-code" alt="vs-code" width="40" height="40"/>&nbsp
@@ -46,6 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp
+  <img src="https://github.com/Argayash1/Argayash1/assets/113699485/35821034-1e18-4235-95ae-948ce0bd615f" title="prettier" alt="prettier" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp

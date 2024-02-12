@@ -16,7 +16,7 @@
   <a href="https://vk.com/zilber_man"><img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=FFFF"></a>
   <a href="mailto:zilberman-82@mail.ru"><img src="https://img.shields.io/badge/Mail-0000FF?style=for-the-badge&logo=Mail.Ru&logoColor=FFFF"></a>
   <a href="https://www.instagram.com/iakovzilberman"><img src="https://img.shields.io/badge/instagram-DA70D6?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"></a>
-</div>![prettier-logo](https://github.com/Argayash1/Argayash1/assets/113699485/35821034-1e18-4235-95ae-948ce0bd615f)
+</div>
 
 
 ## 💻 Мой стэк:

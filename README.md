@@ -61,34 +61,41 @@
 ## 🎨 Мои проекты:
 <div>
   <div>
+<a href="https://github.com/Argayash1/music-theory-olympiad-frontend">
+      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/87396fd3-604b-4c02-ba79-6b42df654f2d" title="music-theory-olympiad-frontend" alt="music-theory-olympiad-frontend" width="230" height="170"> 
+    </a>&nbsp;
     <a href="https://github.com/Argayash1/composers-irk-frontend">
       <img src="https://github.com/Argayash1/Argayash1/assets/113699485/c978f330-e386-496d-b3be-ec9c803eb1e3" title="composers-irk-frontend" alt="composers-irk-frontend" width="230" height="170"> 
     </a>&nbsp;
     <a href="https://github.com/Argayash1/react-pizza-v2">
       <img src="https://github.com/Argayash1/Argayash1/assets/113699485/dea8ddd9-89dc-498c-9778-a7484fb2e5c5" title="react-pizza-v2" alt="react-pizza-v2" width="230" height="170"> 
     </a>&nbsp;
-    <a href="https://github.com/Argayash1/movies-explorer-frontend">
-      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f" title="movies-explorer-frontend" alt="movies-explorer-frontend" width="230" height="170"> 
-    </a>&nbsp; 
+    
   </div>
   <div>
+<a href="https://github.com/Argayash1/movies-explorer-frontend">
+      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/44763d23-c976-460d-b817-ca04eae9389f" title="movies-explorer-frontend" alt="movies-explorer-frontend" width="230" height="170"> 
+    </a>&nbsp; 
     <a href="https://github.com/Argayash1/react-mesto-api-full-gha">
       <img src="https://user-images.githubusercontent.com/113699485/222625978-8c89e6fa-e058-4f61-9aa1-32b9e46047b4.jpg" title="react-mesto-api-full-gha" alt="react-mesto-api-full-gha" width="230" height="170"> 
     </a>&nbsp;
     <a href="https://github.com/Argayash1/mesto">
       <img src="https://user-images.githubusercontent.com/113699485/222885885-8aeb48bd-3a7e-4302-b242-6048c8ae7121.jpg" title="mesto" alt="mesto" width="230" height="170">
     </a>&nbsp;
-    <a href="https://github.com/Argayash1/russian-travel">
+    
+  </div>
+  <div>
+<a href="https://github.com/Argayash1/russian-travel">
       <img src="https://user-images.githubusercontent.com/113699485/222904196-a8bef537-407f-404b-880a-400121bbe52c.jpg" title="russian-travel" alt="russian-travel" width="230" height="170">
     </a>&nbsp;
-  </div>
-  <div><a href="https://github.com/Argayash1/how-to-learn">
+<a href="https://github.com/Argayash1/how-to-learn">
       <img src="https://user-images.githubusercontent.com/113699485/222951217-a5465cb1-7ffc-4201-b262-ec0b99b11e49.jpg" title="how-to-learn" alt="how-to-learn" width="230" height="170">
     </a>&nbsp;
     <a href="https://github.com/Argayash1/post">
       <img src="https://user-images.githubusercontent.com/113699485/223101114-0e9a881d-0977-4185-8ad5-71c0186c3a09.jpg" title="post" alt="post" width="230" height="170">
     </a></div>
 </div>
+
 
 ## 🔎 Статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF&locale=ru)](https://git.io/streak-stats)<br>

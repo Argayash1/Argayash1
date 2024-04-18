@@ -62,7 +62,7 @@
 <div>
   <div>
 <a href="https://github.com/Argayash1/music-theory-olympiad-frontend">
-      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/87396fd3-604b-4c02-ba79-6b42df654f2d" title="music-theory-olympiad-frontend" alt="music-theory-olympiad-frontend" width="230" height="170"> 
+      <img src="https://github.com/Argayash1/Argayash1/assets/113699485/8343689a-a260-48b2-b573-8949fa47e5f3" title="music-theory-olympiad-frontend" alt="music-theory-olympiad-frontend" width="230" height="170"> 
     </a>&nbsp;
     <a href="https://github.com/Argayash1/composers-irk-frontend">
       <img src="https://github.com/Argayash1/Argayash1/assets/113699485/c978f330-e386-496d-b3be-ec9c803eb1e3" title="composers-irk-frontend" alt="composers-irk-frontend" width="230" height="170"> 
@@ -95,6 +95,7 @@
       <img src="https://user-images.githubusercontent.com/113699485/223101114-0e9a881d-0977-4185-8ad5-71c0186c3a09.jpg" title="post" alt="post" width="230" height="170">
     </a></div>
 </div>
+
 
 
 ## 🔎 Статистика:

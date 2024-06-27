@@ -7,6 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=Argayash1&style=flat-square&color=orange" alt="Счётчик просмотров">
 </div>
 
+[![codewars](https://www.codewars.com/users/Argayash1/badges/large)](https://www.codewars.com/users/Argayash1)   
+
+
 
 ## 👨 О себе:
 * 🔭 Хочу развиваться, изучать новые технологии, библиотеки, фреймворки

@@ -6,15 +6,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Argayash1&style=flat-square&color=orange" alt="Счётчик просмотров">
 </div>
-<br>
-<br>
-<div align="center">
-  
-[![codewars](https://www.codewars.com/users/Argayash1/badges/large)](https://www.codewars.com/users/Argayash1)   
-</div>
-
-
-
 
 ## 👨 О себе:
 * 🔭 Хочу развиваться, изучать новые технологии, библиотеки, фреймворки
@@ -112,5 +103,6 @@
 
 
 ## 🔎 Статистика:
+[![codewars](https://www.codewars.com/users/Argayash1/badges/large)](https://www.codewars.com/users/Argayash1)   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF&locale=ru)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argayash1&layout=compact&theme=default&locale=ru&card_width=495)](https://github.com/anuraghazra/github-readme-stats)

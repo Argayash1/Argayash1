@@ -6,7 +6,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Argayash1&style=flat-square&color=orange" alt="Счётчик просмотров">
 </div>
-
+<br>
+<br>
 <div align="center">
   
 [![codewars](https://www.codewars.com/users/Argayash1/badges/large)](https://www.codewars.com/users/Argayash1)   

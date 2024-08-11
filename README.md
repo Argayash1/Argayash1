@@ -52,6 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="git bash" alt="git bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp
   <img src="https://github.com/Argayash1/Argayash1/assets/113699485/35821034-1e18-4235-95ae-948ce0bd615f" title="prettier" alt="prettier" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp

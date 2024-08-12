@@ -104,9 +104,6 @@
 </div>
 </div>
 
-![images](https://github.com/user-attachments/assets/4a00d0ca-9e7a-4434-a042-0f6c49356647)
-
-
 ## 🔎 Статистика:
 [![codewars](https://www.codewars.com/users/Argayash1/badges/large)](https://www.codewars.com/users/Argayash1)   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Argayash1&theme=default&background=FFFFFF&locale=ru)](https://git.io/streak-stats)<br>

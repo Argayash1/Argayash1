@@ -35,8 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux/rtk" alt="redux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest.js" alt="jest.js" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="cypress.js" alt="jest.js" width="40" height="40"/>&nbsp
-  <img src="https://github.com/user-attachments/assets/4a00d0ca-9e7a-4434-a042-0f6c49356647" title="cypress.js" alt="jest.js" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="cypress.js" alt="cypress.js" width="40" height="40"/>&nbsp
+  <img src="https://github.com/user-attachments/assets/4a00d0ca-9e7a-4434-a042-0f6c49356647" title="react-admin" alt="react-admin" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp

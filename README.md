@@ -2,6 +2,7 @@
 <h2 align="center">Меня зовут Яков, я frontend-разработчик💻</h2>
 <div align="center"><img align="center" src="https://github.com/user-attachments/assets/8b1eeb7b-5855-4474-b5cb-2dc5736c18ca" width="400">
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Argayash1&style=flat-square&color=orange" alt="Счётчик просмотров">
 </div>

@@ -1,7 +1,6 @@
 <h1 align="center">Привет, мир!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
 <h2 align="center">Меня зовут Яков, я frontend-разработчик💻</h2>
-<p align="center">💥Активно ищу работу 🔥Открыт к предложениям <br>как отдельных проектов, так и от компаний-работодателей</p>
-<div align="center"><img align="center" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400">
+<div align="center"><img align="center" src="https://github.com/user-attachments/assets/8b1eeb7b-5855-4474-b5cb-2dc5736c18ca" width="400">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Argayash1&style=flat-square&color=orange" alt="Счётчик просмотров">

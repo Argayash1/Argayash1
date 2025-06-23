@@ -36,6 +36,7 @@
   <img src="https://github.com/user-attachments/assets/ad0acbba-f478-4f9e-b25e-b4be88519523" title="redux-saga" alt="redux-saga" width="58" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest.js" alt="jest.js" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="playwright.js" alt="playwright.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="cypress.js" alt="cypress.js" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="40" height="40"/>&nbsp
   <img src="https://github.com/user-attachments/assets/4a00d0ca-9e7a-4434-a042-0f6c49356647" title="react-admin" alt="react-admin" width="40" height="40"/>&nbsp
